@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProjetoHomeEletrico</string>
+    <string name="entrar">Entrar</string>
+    <string name="text_cadastro">Clique e Cadastre-se</string>
+    <string name="titulo_cadastro">Cadastre-se</string>
+    <string name="titulo_consumo_real">Consumo Real</string>
+    <string name="titulo_previsao_mes">Previsão do Final do Mês</string>
+    <string name="sibolo_real">R$:</string>
+    <string name="titulo_consumo">CONSUMO:</string>
+    <string name="titulo_potecia">POTENCIA:</string>
+</resources>

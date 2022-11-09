@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "560194765284",
+    "project_id": "electric-house-5428e",
+    "storage_bucket": "electric-house-5428e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560194765284:android:979d585f34163863ba87f1",
+        "android_client_info": {
+          "package_name": "com.eletric.projetohomeeletrico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560194765284-c52av4ehqi2a335eg66mgj6560h7paag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfDjDGBdSQsP_y8RFUxoEoPdpXnhFsb64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560194765284-c52av4ehqi2a335eg66mgj6560h7paag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

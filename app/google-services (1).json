@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "137245177828",
+    "firebase_url": "https://esp8266firebaseteste2-default-rtdb.firebaseio.com",
+    "project_id": "esp8266firebaseteste2",
+    "storage_bucket": "esp8266firebaseteste2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137245177828:android:483c304dd1b5132a2ff9f1",
+        "android_client_info": {
+          "package_name": "com.eletric.projetohomeeletrico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137245177828-n83t6mqlkglfgk527bpuvcnjocg4qksm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIDm9gvFZSXzAb_ZvWLQi4raUN5V9d6tU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137245177828-n83t6mqlkglfgk527bpuvcnjocg4qksm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
